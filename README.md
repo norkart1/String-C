@@ -1,6 +1,7 @@
 # String-C
-```
+```js
 #include <stdio.h>
+
 int main(void) {
   char name[10];
   printf("Enter your Name : ");
