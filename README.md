@@ -1,4 +1,4 @@
-# String-C
+# String-C Learning Examples
 ```js
 #include <stdio.h>
 
