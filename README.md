@@ -1,7 +1,6 @@
 # String-C
-
+```
 #include <stdio.h>
-
 int main(void) {
   char name[10];
   printf("Enter your Name : ");
@@ -10,3 +9,4 @@ int main(void) {
   printf("Enterd Name is : %s", name);
   return 0;
 }
+```
